@@ -1,7 +1,7 @@
 ## Jini Coroneo
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |
-[Hobbies and Interests](#hobbies-and-interests) [LinkedIn](URL)
+[Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](URL)
 
 I am a driven and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge.
 
