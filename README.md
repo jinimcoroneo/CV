@@ -80,6 +80,9 @@ A 16-week intensive development bootcamp, focusing on :
 **Freelance** - Dubai, UAE (Feb '12 - Jun '12)   
 *Innovation Manager*  
 
+**Freelance** - Dubai, UAE (Jun '11 - Nov '11)   
+*Public Relations Manager*  
+
 **Avani Imports LLC** - Boise, Idaho (Jan '08 - March '11)   
 *Co-Founder*  
 
