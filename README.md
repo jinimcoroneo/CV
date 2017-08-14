@@ -13,13 +13,12 @@ After my latest job as the client servicing director for an independent creative
 
 ## Projects
 
-For a complete list, see my [GitHub](URL).
+For a complete list, see my [GitHub](https://github.com/jinimcoroneo).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Project name](github URL) | description | tech used |
-| [Project name](github URL) | description | tech used |
-| [Project name](github URL) | description | tech used |
+| [RPS Challenge](https://github.com/jinimcoroneo/rps-challenge) | A simple rock, paper, scissors game | Ruby, Sinatra, Rspec |
+| [sarca-therapist](https://github.com/jinimcoroneo/sarca-therapist) | A sarcastic chat bot | JavaScript, jQuery, Jasmine, Node js |
 
 
 ## Skills
@@ -34,7 +33,7 @@ From organising large scale events for the Chamber of Commerce in Dubai to devel
 
 #### Fast learner
 
-I earned a full-time offer at Accomplice Ad Agency by impressing my Managing Director with how quickly I was able to pick up new concepts, such programmatic ad buying and using an unknown platform for analysing social media insights. In addition, I was able to learn numerous high level programming concepts at Makers Academy in a relatively short amount of time. For my [News App project](<github URL>), I learned about new JavaScript concepts and how to use a new API to create a Guardian news aggregator over a weekend.
+I earned a full-time offer at Accomplice Ad Agency by impressing my Managing Director with how quickly I was able to pick up new concepts, such programmatic ad buying and using an unknown platform for analysing social media insights. In addition, I was able to learn numerous high level programming concepts at Makers Academy in a relatively short amount of time. For my [News App project](https://github.com/jinimcoroneo/news-summary-app), I learned how to incorporate new JavaScript concepts and use an API to create a Guardian news aggregator over a weekend.
 
 
 #### Additional skills
