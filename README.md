@@ -79,27 +79,32 @@ A 16-week intensive development bootcamp, focusing on :
 
 **Accomplice Ad Agency** - Singapore (Jan '14 - Dec '14')    
 *Client Servicing Director*
-I was responsible for the day-to-day management of clients’ marketing and advertising campaigns through regular
+
+- I was responsible for the day-to-day management of clients’ marketing and advertising campaigns through regular
 communication and liaison at a senior level.
 
 **American Business Council, Chapter, U.S Chamber of Commerce** - Dubai, UAE (Jun '12 - Oct '13)    
 *Communications and Programs Manager*  
-I worked closely with government organizations including the US Embassy, the US Consulate and the Department of
+
+- I worked closely with government organizations including the US Embassy, the US Consulate and the Department of
 Economic Development to collaborate and create beneficial programs for members of the American Business Council.
 
 **Freelance** - Dubai, UAE (Feb '12 - Jun '12)   
 *Innovation Manager*  
-I was a Freelance marketing expert for Traffic, a Dubai based digital marketing and creative agency, covering digital,
+
+- I was a Freelance marketing expert for Traffic, a Dubai based digital marketing and creative agency, covering digital,
 mobile and social strategy
 
 **Figment Communications** - Dubai, UAE (Jun '11 - Nov '11)   
 *Public Relations Manager*  
-I was responsible for the public relations and communications strategy, focusing solely on the heath-care sector
+
+- I was responsible for the public relations and communications strategy, focusing solely on the heath-care sector
 within the Gulf and wider Middle East region.
 
 **Avani Imports LLC** - Boise, Idaho (Jan '08 - March '11)   
 *Co-Founder*  
-I oversaw all aspects of business development, HR management, marketing and finance in addition to being the liaison
+
+- I oversaw all aspects of business development, HR management, marketing and finance in addition to being the liaison
 for distribution channels overseas.
 
 ## Hobbies and Interests
