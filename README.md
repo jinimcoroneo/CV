@@ -36,7 +36,7 @@ During my time at Accomplice and Makers Academy, I worked on numerous group proj
 
 #### Thrives under pressure
 
-From organising large scale events for the Chamber of Commerce in Dubai to developing campaign ideas and presentations with a very quick turn around time, I have always thrived when working under pressure and under deadline. It is my strong time management and organisational skills that I have developed throughout my professional career, in addition to my time at Makers Academy, that allows me to do this.
+From organising large scale events for the Chamber of Commerce in Dubai to developing campaign ideas and presentations with a very quick turn around time, I have always thrived when working under pressure and under deadline. It is my strong time management and organisational skills that I have developed throughout my professional career, in addition to my time at Makers Academy, that allow me to do this.
 
 #### Fast learner
 
