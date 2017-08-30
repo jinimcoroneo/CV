@@ -13,20 +13,20 @@ After my latest job as the client servicing director for Accomplice, an independ
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/jinimcoroneo).
+For a complete list, see my [GitHub](https://github.com/jinimcoroneo) profile.
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [RPS Challenge](https://github.com/jinimcoroneo/rps-challenge) | A simple rock, paper, scissors game | Ruby, Sinatra, Rspec |
-| [sarca-therapist](https://github.com/jinimcoroneo/sarca-therapist) | A sarcastic chat bot | JavaScript, jQuery, Jasmine, Node js |
+| [Sarca-therapist](https://github.com/jinimcoroneo/sarca-therapist) | A sarcastic chat bot | JavaScript, jQuery, Jasmine, Node js |
 
 ## Final Project
 
-| URL   | Description | Technologies |
+| Link   | Description | Technologies |
 |---        |---         |---           |
-| https://github.com/jinimcoroneo/Perceptron | A Ruby gem for a machine learning perceptron algorithm | Ruby, Rspec, Node js |
-| https://github.com/jinimcoroneo/percepticon | A Rails API using the pre-taught perceptron algorithm | Rails, PostgreSQL, Heroku, TravisCI |
-| https://github.com/jinimcoroneo/percepticon-frontend | A one page front-end implementing the perceptron algorithm | Js, jQuery, Firebase, HTML, CSS, JS |
+| [Perceptron](https://github.com/jinimcoroneo/Perceptron) | A Ruby gem for a machine learning perceptron algorithm | Ruby, Rspec, Node js |
+| [Percepticon](https://github.com/jinimcoroneo/percepticon) | A Rails API using the pre-taught perceptron algorithm | Rails, PostgreSQL, Heroku, TravisCI |
+| [Percepticon Front-end](https://github.com/jinimcoroneo/percepticon-frontend) | A one page front-end implementing the perceptron algorithm | Js, jQuery, Firebase, HTML, CSS, JS |
 
 ## Skills
 
@@ -78,19 +78,29 @@ A 16-week intensive development bootcamp, focusing on :
 ## Experience
 
 **Accomplice Ad Agency** - Singapore (Jan '14 - Dec '14')    
-*Client Servicing Director*  
+*Client Servicing Director*
+I was responsible for the day-to-day management of clients’ marketing and advertising campaigns through regular
+communication and liaison at a senior level.
 
 **American Business Council, Chapter, U.S Chamber of Commerce** - Dubai, UAE (Jun '12 - Oct '13)    
 *Communications and Programs Manager*  
+I worked closely with government organizations including the US Embassy, the US Consulate and the Department of
+Economic Development to collaborate and create beneficial programs for members of the American Business Council.
 
 **Freelance** - Dubai, UAE (Feb '12 - Jun '12)   
 *Innovation Manager*  
+I was a Freelance marketing expert for Traffic, a Dubai based digital marketing and creative agency, covering digital,
+mobile and social strategy
 
 **Figment Communications** - Dubai, UAE (Jun '11 - Nov '11)   
 *Public Relations Manager*  
+I was responsible for the public relations and communications strategy, focusing solely on the heath-care sector
+within the Gulf and wider Middle East region.
 
 **Avani Imports LLC** - Boise, Idaho (Jan '08 - March '11)   
 *Co-Founder*  
+I oversaw all aspects of business development, HR management, marketing and finance in addition to being the liaison
+for distribution channels overseas.
 
 ## Hobbies and Interests
 - **Volunteering** : I have a passion for animal welfare and I like to spend my time working with such organizations as ASPCA and Cats Protection here in London, fund raising and helping where needed.
