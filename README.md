@@ -26,7 +26,7 @@ For a complete list, see my [GitHub](https://github.com/jinimcoroneo) profile.
 |---        |---         |---           |
 | [Perceptron](https://github.com/jinimcoroneo/Perceptron) | A Ruby gem for a machine learning perceptron algorithm | Ruby, Rspec, Node js |
 | [Percepticon](https://github.com/jinimcoroneo/percepticon) | A Rails API using the pre-taught perceptron algorithm | Rails, PostgreSQL, Heroku, TravisCI |
-| [Percepticon Front-end](https://github.com/jinimcoroneo/percepticon-frontend) | A one page front-end implementing the perceptron algorithm | Js, jQuery, Firebase, HTML, CSS, JS |
+| [Percepticon Front-end](https://github.com/jinimcoroneo/percepticon-frontend) | A one page front-end implementing the perceptron algorithm | Js, jQuery, Firebase, HTML, CSS |
 
 ## Skills
 
